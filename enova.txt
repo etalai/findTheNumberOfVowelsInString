@@ -1,0 +1,4 @@
+lexicono
+SAMPLEE
+E SHOULD BE THE MOST COMMON VOWEL IN THIS SENTENCE
+ReferenceError require is not defined
